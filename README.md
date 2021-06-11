@@ -2,7 +2,8 @@
 
 Main components:
 - MCU: STM32L476RGT6
-- LoRa chipset: SX1262
+- LoRa chipset: SX1262 (Semtech Corporation)
+SX1262 datasheet: https://www.semtech.com/products/wireless-rf/lora-core/sx1262
 - Relative humidity/ Barometric pressure/ Ambient temperature: BME280
 
 I've been sharing a series of tutorial videos about the evaluation board on my Youtube channel :
